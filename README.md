@@ -1,7 +1,7 @@
 # DDoSTor v1.0
-## Author: github.com/thelinuxchoice
-## IG: instagram.com/thelinuxchoice
-### Github: github.com/thelinuxchoice/ddostor
+## Author: github.com/cxkes
+## IG: instagram.com/cxkes_is_king
+### Github: github.com/cxkes/ddostor
 ### Don't copy this code without give me the credits, nerd! 
 
 DDoS Tool using Multi-tor and Torshammer tool.
@@ -13,7 +13,7 @@ Usage of DDoSTor for attacking targets without prior mutual consent is illegal. 
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/ddostor
+git clone https://github.com/cxkes/ddostor
 cd ddostor
 bash ddostor
 ```
@@ -27,4 +27,4 @@ apt-get install tor
 ### Donate!
 Support the authors:
 
-<noscript><a href="https://liberapay.com/thelinuxchoice/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+<noscript><a href="https://liberapay.com/cxkes/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
