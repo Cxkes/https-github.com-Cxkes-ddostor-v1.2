@@ -1,4 +1,4 @@
-# DDoSTor v1.0
+# DDoSTor v1.2
 ## Author: github.com/cxkes
 ## IG: instagram.com/cxkes_is_king
 ### Github: github.com/cxkes/ddostor
@@ -13,9 +13,9 @@ Usage of DDoSTor for attacking targets without prior mutual consent is illegal. 
 
 ### Usage:
 ```
-git clone https://github.com/cxkes/ddostor
-cd ddostor
-bash ddostor
+git clone https://github.com/cxkes/ddostorv1.2
+cd ddostor-v1.2
+bash ddostor-v1.2.sh
 ```
 
 ### Install requirements (Tor):
